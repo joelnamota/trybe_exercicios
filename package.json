@@ -1,0 +1,23 @@
+{
+  "name": "trybe_exercicios",
+  "version": "1.0.0",
+  "description": "💚 Repositório criado para armazenar os exercícios do curso\r Trybe VQV 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelnamota/trybe_exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelnamota/trybe_exercicios/issues"
+  },
+  "homepage": "https://github.com/joelnamota/trybe_exercicios#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
